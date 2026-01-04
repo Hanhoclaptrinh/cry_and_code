@@ -1,5 +1,5 @@
 class Solution:
-    def maxProfit(prices) -> int:
+    def maxProfit(prices):
         minp=float('inf') # khoi tao gia mua thap nhat la vo cung
         maxp=0
 
